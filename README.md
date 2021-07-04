@@ -1,4 +1,4 @@
 
 
-- 📫 How to reach me: estrada@hey.com
+- 📫 Software Developer and Entreprenuer
 
