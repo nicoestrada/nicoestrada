@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐️ Check out my portfolio at nico.ventures<br>☕️ Preparing for SWE interviews<br>🦾 1% better every day
+⭐️ Check out my blog at https://nico.ventures<br>☕️ Preparing for SWE interviews<br>🦾 1% better every day
 
 
 ## 🌐 Socials:
