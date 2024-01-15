@@ -4,4 +4,4 @@ I'm Nico. I'm a software engineer based in Texas, and I am currently bootstrappi
 
 I created products like [partnerwise.io](https://partnerwise.io), [deaths.today](https://deaths.today), and more. You can learn more about me by visiting [my personal website](https://nico.ventures).
 
-If you'd like to work with me, [write me an email](mailto:estrada@hey.com).
+If you'd like to work with me, [shoot me an email](mailto:estrada@hey.com).
